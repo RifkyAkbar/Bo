@@ -17,7 +17,7 @@ const instagramlu = 'https://instagram.com/Kamaadoo_tanjiroo'; // Nama Instagram
 const whatsapplu = '0813-6896-5962'; // Nomor whatsapplu cok
 const kapanbotaktif = '24 Jam [kalau gak balas artinya off]'; // Kapan bot lu aktif
 const grupch1 = 'https://chat.whatsapp.com/GonTlbr69xY5rk2NEFnPEV'; // OFFICIAL GRUP LU 1
-const grupch2 = TIDAK ADA; // OFFICIAL GRUP LU 2
+const grupch2 = 'TIDAK ADA'; // OFFICIAL GRUP LU 2
 //
 const
 {
